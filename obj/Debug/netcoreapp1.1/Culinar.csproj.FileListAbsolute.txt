@@ -4,3 +4,6 @@ D:\Dev\Prosjekter\Culinar\Culinar\bin\Debug\netcoreapp1.1\Culinar.runtimeconfig.
 D:\Dev\Prosjekter\Culinar\Culinar\bin\Debug\netcoreapp1.1\Culinar.dll
 D:\Dev\Prosjekter\Culinar\Culinar\obj\Debug\netcoreapp1.1\Culinar.csprojResolveAssemblyReference.cache
 D:\Dev\Prosjekter\Culinar\Culinar\obj\Debug\netcoreapp1.1\Culinar.AssemblyInfo.cs
+D:\Dev\Prosjekter\Culinar\Culinar\bin\Debug\netcoreapp1.1\Culinar.pdb
+D:\Dev\Prosjekter\Culinar\Culinar\obj\Debug\netcoreapp1.1\Culinar.dll
+D:\Dev\Prosjekter\Culinar\Culinar\obj\Debug\netcoreapp1.1\Culinar.pdb
